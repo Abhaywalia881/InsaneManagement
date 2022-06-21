@@ -1,4 +1,4 @@
-# © @always_hungry365
+#  © @always_hungry365
 # Owner Mayank
 # Roses are red, Violets are blue, A face like yours, Belongs in a zoo
 
@@ -417,10 +417,10 @@ def stats(update: Update, context: CallbackContext):
                   [                  
                        InlineKeyboardButton(
                              text="❤️ ʜᴇᴀʀᴛ ❤️",
-                             url=f"https://t.me/Insane_Help"),
+                             url=f"https://t.me/Give_Me_Heart"),
                        InlineKeyboardButton(
                              text="‍‍‍👦 ɢʀᴏᴜᴘ ‍👦",
-                             url="https://t.me/Dosto_ki_Mehfil786")
+                             url="https://t.me/Shayri_Music_Lovers")
                      ] 
                 ]
             ),

@@ -1,6 +1,5 @@
-# Mehfil © @always_hungry365
+# © @always_hungry365
 # Owner Mayank
-# Roses are red, Violets are blue, A face like yours, Belongs in a zoo
 
 
 
@@ -85,7 +84,7 @@ def new_fed(update: Update, context: CallbackContext):
         x = sql.new_fed(user.id, fed_name, fed_id)
         if not x:
             update.effective_message.reply_text(
-                "Can't federate! Please contact @always_hungry365 if the problem persist."
+                "Can't federate! Please contact @ironmenfed if the problem persist."
             )
             return
 
@@ -239,7 +238,7 @@ def join_fed(update: Update, context: CallbackContext):
         x = sql.chat_join_fed(args[0], chat.title, chat.id)
         if not x:
             message.reply_text(
-                "Failed to join federation! Please contact @always_hungry365 should this problem persist!"
+                "Failed to join federation! Please contact @ironmenfed should this problem persist!"
             )
             return
 

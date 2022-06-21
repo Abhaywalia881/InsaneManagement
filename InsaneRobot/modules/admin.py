@@ -1,5 +1,5 @@
 """
-(Copyright to @always_hungry365
+(Copyright to @always_hungrt365
 Powered by @Insane_Help
 """
 import html

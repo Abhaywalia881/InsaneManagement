@@ -1,4 +1,4 @@
-# time zone info with country by  Mayank
+# time zone info with country by Mayank
 
 import datetime
 from typing import List

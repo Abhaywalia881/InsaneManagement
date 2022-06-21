@@ -1,4 +1,4 @@
-# Mehfil © @always_hungry365
+# © @always_hungry365
 # Owner Mayank
 # Roses are red, Violets are blue, A face like yours, Belongs in a zoo
 
@@ -56,7 +56,7 @@ class AioHttp:
 
 __mod_name__ = "♦️Inline"
 __help__ = f"""
-INLINE BOT SERVICE OF @always_hungry365
+INLINE BOT SERVICE OF @Isnane_Help
 I'm more efficient when added as group admin. By the way these commands can be used by anyone in a group via inline.
 
 ──「 Syntax 」──

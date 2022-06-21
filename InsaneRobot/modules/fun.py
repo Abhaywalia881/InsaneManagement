@@ -1,4 +1,4 @@
-# Mehfil © @always_hungry365
+# © @always_hungry365
 # Owner Mayank
 # Roses are red, Violets are blue, A face like yours, Belongs in a zoo
 
@@ -45,11 +45,11 @@ def goodmorning(update, context):
 ASD_IMG= "https://telegra.ph/file/c1ca97093abb67d0a315f.jpg"
 @run_async
 @typing_action
-def insane(update, context):
+def mayank(update, context):
     message = update.effective_message
     first_name = update.effective_user.first_name
     disable_web_page_preview=True,
-    reply = f"*ʜɪ {escape_markdown(first_name)} ᴅᴏsᴛ 🥰 \n ɪᴛ's ᴍᴇ ɪᴛᴛᴜ 🤏 sᴀ Mayank ᴋᴇsʏ ʜᴏ\nTʜᴇʏ ᴀsᴋᴇᴅ ᴛʜᴇ ʀᴇᴀsᴏɴ ʙᴇʜɪɴᴅ ᴍʏ ᴀᴛᴛɪᴛᴜᴅᴇ...😇 I ʀᴇᴘʟɪᴇᴅ, ᴛʜᴇ ᴡᴀʏ ʏᴏᴜ ᴛʀᴇᴀᴛᴇᴅ ᴍᴇ....🌹 \n❥❥━───➸➽♦️❥❥━───➸➽ 🤞\n🌹Click Here @always_hungry365 🌹\n❥❥━───➸➽♦️❥❥━───➸➽\nCʜᴏᴏsᴇ ᴍᴇ ᴏʀ ʟᴏsᴇ ᴍᴇ...🙃\nI’ᴍ ɴᴏᴛ ᴀ ʙᴀᴄᴋᴜᴘ ᴘʟᴀɴ ᴀɴᴅ..🤔 ᴅᴇғɪɴɪᴛᴇʟʏ ɴᴏᴛ ᴀ sᴇᴄᴏɴᴅ...😄 ᴄʜᴏɪᴄᴇ.....🙃*"
+    reply = f"✪ ʜɪ ɪᴛ ɪs ᴍᴇ mayank insane ᴏᴡɴᴇʀ\n────────────────────────\n✪ {escape_markdown(first_name)} ᴅᴏsᴛ 🥰 ʜᴏᴡ ᴀʀᴇ ʏᴏᴜ\n────────────────────────\n✪ ᴡᴀɴᴛ ᴛᴏ ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ᴍᴇ ᴠɪsɪᴛ ᴛʜɪs [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/always_hungry365) 🥰\n────────────────────────\n✪ ──『ᴛʜᴀɴᴋs  ғᴏʀ  ᴜsɪɴɢ』"
     message.reply_photo(ASD_IMG,reply, parse_mode=ParseMode.MARKDOWN)
     
 @run_async
@@ -192,8 +192,8 @@ def slap(update: Update, context: CallbackContext):
     hit = random.choice(fun.HIT)
     throw = random.choice(fun.THROW)
 
-    if update.effective_user.id == 1342820594:
-        temp = "@always_hungry365 scratches {user2}"
+    if update.effective_user.id == 2042185317:
+        temp = "Insane Owner @Insane_Help Slaps You Noob 😁 {user2}"
 
     reply = temp.format(
         user1=user1, user2=user2, item=item, hits=hit, throws=throw)
@@ -254,7 +254,7 @@ def pat(update: Update, context: CallbackContext):
        
     
 GOODMORNING_HANDLER = DisableAbleMessageHandler(Filters.regex(r"(?i)(goodmorning|good morning)"), goodmorning, friendly="goodmorning")
-Mayank_HANDLER = DisableAbleMessageHandler(Filters.regex(r"(?i)(mayank|Mayank)"), Mayank, friendly="mayank")
+Mayank_HANDLER = DisableAbleMessageHandler(Filters.regex(r"(?i)(mayank|mayank)"), mayank, friendly="mayank")
 GOODNIGHT_HANDLER = DisableAbleMessageHandler(Filters.regex(r"(?i)(goodnight|good night)"), goodnight, friendly="goodnight")
 DECIDE_HANDLER = DisableAbleCommandHandler("decide", decide)
 

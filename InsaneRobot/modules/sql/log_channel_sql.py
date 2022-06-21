@@ -2,7 +2,6 @@
 # Owner Mayank
 
 
-
 import threading
 
 from InsaneRobot.modules.sql import BASE, SESSION

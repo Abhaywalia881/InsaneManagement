@@ -1,4 +1,4 @@
-# © @always_hungry365
+#  © @always_hungry365
 # Owner Mayank
 
 import os
@@ -389,5 +389,5 @@ async def cartoon(client, message):
         except Exception:
             return
 
-# © @always_hungry365
+#  © @always_hungry365
 # Owner Mayank

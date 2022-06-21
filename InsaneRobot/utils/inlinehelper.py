@@ -1,4 +1,4 @@
-# © @always_hungry365
+#  © @always_hungry365
 # Owner Mayank
 # Roses are red, Violets are blue, A face like yours, Belongs in a zoo
 
@@ -54,7 +54,7 @@ async def paste(content):
 async def inline_help_func(__HELP__):
     buttons = InlineKeyboard(row_width=2)
     buttons.add(
-        InlineKeyboardButton("🔐 ᴍᴏʀᴇ ʜᴇʟᴘ.", url=f"t.me/Insane_ManagementBot?start=help"),
+        InlineKeyboardButton("🔐 ᴍᴏʀᴇ ʜᴇʟᴘ.", url=f"t.me/Insane_MANAGEMENT_BOT?start=help"),
         InlineKeyboardButton("🔄 ɢᴏ ɪɴʟɪɴᴇ", switch_inline_query_current_chat=""),
     )
     answerss = [
@@ -76,17 +76,16 @@ async def alive_function(answers):
     bot_state = "Dead" if not await app.get_me() else "Alive"
     # ubot_state = 'Dead' if not await app2.get_me() else 'Alive'
     buttons.add(
-        InlineKeyboardButton("🔐 ᴍᴀɪɴ ʙᴏᴛ", url="https://t.me/Insane_ManagementBot?start=help"),
+        InlineKeyboardButton("🔐 ᴍᴀɪɴ ʙᴏᴛ", url="https://t.me/INSANE_MANAGEMENT_BOT?start=help"),
         InlineKeyboardButton("🔄 ɢᴏ ɪɴʟɪɴᴇ", switch_inline_query_current_chat=""),
     )
 
     msg = f"""
-**[Apni Mehfil⚡](t.me/Dosto_ki_Mehfil786):**
+**[Insane⚡](t.me/Dosto_ki_Mehfil786):**
 **MainBot:** `{bot_state}`
 **Python:** `3.9`
 **Pyrogram:** `{pyrover}`
 **Platform:** `{sys.platform}`
-**Profiles:** [OWNER](t.me/always_hungry365) 
 """
     answers.append(
         InlineQueryResultArticle(

@@ -1,7 +1,7 @@
 {
        "name": "Insane Official Bot",
       "description": "A Powerful And Advanced Telegram Group Management Bot By Mayank",
-      "logo": "https://telegra.ph/file/ed0dc3f88422d69d8dcf9.jpg",
+      "logo": "https://telegra.ph/file/c1ca97093abb67d0a315f.jpg",
       "keywords": [
          "telegram",
          "anime",
@@ -47,7 +47,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "5303133436"
+         "value": "5122206134"
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
@@ -60,17 +60,17 @@
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to saitama support than consider you made an enemy.",
          "required": true,
-         "value": "Dosto_ki_Mehfil786"
+         "value": "Insane_Help"
       },
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-1001717283097"
+         "value": "-1001750915894"
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "-1001717283097"
+         "value": "-1001750915894"
        },
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
@@ -80,7 +80,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Saitama support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": "5303133436"
+         "value": "5122206134"
       },
       "sw_api": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
@@ -94,12 +94,12 @@
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "5303133436"
+         "value": "2042185317"
       },
       "DEMONS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "5303133436"
+         "value": "2042185317"
       },
       "STRING_SESSION": {
          "description": "Fill with telethon string session.",
@@ -119,7 +119,7 @@
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
          "value": "ANYTHING"
-      },
+         },
       "WEBHOOK": {
          "description": "Setting this to ANYTHING will enable webhooks. If you dont know how this works leave it as it is",
          "required": false,
@@ -152,7 +152,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it",
          "required": false,
-         "value": "https://t.me/Dr_Assad_Ali"
+         "value": "https://t.me/always_hungry365"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",

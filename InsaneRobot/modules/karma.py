@@ -23,7 +23,7 @@ from InsaneRobot.function.dbfunctions import (
 from InsaneRobot.utils.filter_groups import karma_negative_group, karma_positive_group
 from InsaneRobot import arq
 
-regex_upvote = r"^((?i)\+|\+\+|\+1|mayank|ittu|thx|thanx|thanks|pro|cool|good|👍)$"
+regex_upvote = r"^((?i)\+|\+\+|\+1|Mayank|ittu|thx|thanx|thanks|pro|cool|good|👍)$"
 regex_downvote = r"^(\-|\-\-|\-1|👎|noob|weak)$"
 
 

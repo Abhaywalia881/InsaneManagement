@@ -1,4 +1,4 @@
-# Mehfil © @always_hungry365
+# © @always_hungry365
 # Owner Mayank
 # Roses are red, Violets are blue, A face like yours, Belongs in a zoo
 
@@ -310,7 +310,7 @@ SLAP_TEMPLATES = (
     "{user2} lost his race piece!",  #No game no life reference
     "Shut up {user2}, you are just {user2}.",  #No game no life reference
     "{user1} hits {user2} with Aka si anse!",  #No game no life reference
-    "@Insane_Help scratches {user2}",  #Pixels pet cat - @Insane_Help
+    "@Insane scratches {user2}",  #Pixels pet cat - @Insane_Help
     "Majin buu ate {user2}",  #Dbz
     "Goblin slayer slays {user2}",  #Goblin Slayer
 )
@@ -447,6 +447,7 @@ REPO = """━━━━━━━━━━━━━━━━━━━━━━━�
 ┣★ [𝐂𝐫𝐞𝐚𝐭𝐨𝐫] @always_hungry365
 ┣★ [𝐇𝐞𝐚𝐫𝐭]     @Insane_Help
 ┣★ [𝐁𝐨𝐭 𝐔𝐩𝐝𝐚𝐭𝐞𝐬] @Insane_Help)
+┣★ [𝐎𝐮𝐫 𝐅𝐞𝐝] @Ironmenfed)
 ┣★ [𝐆𝐫𝐨𝐮𝐩] @Dosto_ki_Mehfil786)
 ┗━━━━━━━━━━━━━━━━━┛
 

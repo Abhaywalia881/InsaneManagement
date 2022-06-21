@@ -1,5 +1,6 @@
-# Mehfil © @always_hungry365
+# © @always_hungry365
 # Owner Mayank
+
 
 import html
 import InsaneRobot.modules.sql.blacklistusers_sql as sql

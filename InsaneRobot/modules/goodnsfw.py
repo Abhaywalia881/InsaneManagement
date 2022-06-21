@@ -1,6 +1,5 @@
-# Mehfil © @always_hungry365
+# © @always_hungry365
 # Owner Mayank
-# Roses are red, Violets are blue, A face like yours, Belongs in a zoo
 
 
 
@@ -211,7 +210,7 @@ __handlers__ = [
 ]
 
 __help__ = """
-Module credits: [InsaneRobot](https://github.com/Devil3420/InsaneManagement) ,
+Module credits: [InsaneRobot](https://github.com/Devil3420/InsaneManagement) , and heart me [Heart Me](t.me/Insane_Help)
     
 Usage:
     

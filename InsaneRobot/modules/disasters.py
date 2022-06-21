@@ -1,4 +1,4 @@
-# Mehfil © @always_hungry365
+# © @always_hungry365
 # Owner Mayank
 
 
@@ -615,7 +615,7 @@ Group admins/group owners do not need these commands.
  ╠ `/ungban`*:* Ungbans the user, same usage as gban
  ╚ `/gbanlist`*:* Outputs a list of gbanned users
 
-Visit [Insane  Server](t.me/Shayri_Music_Lovers) for more information.
+Visit [Insane Server](t.me/Dosto_ki_Mehfil786) for more information.
 """
 
 SUDO_HANDLER = CommandHandler(("addsudo", "addarank"), addsudo)

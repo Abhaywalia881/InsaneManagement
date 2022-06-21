@@ -1,3 +1,3 @@
-worker: python3 -m InsaneRobot
-web: python3 -m InsaneRobot
+worker: python3 -m InsaneRobotRobot
+web: python3 -m InsaneRobotRobot
 ps:scale worker=1

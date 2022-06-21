@@ -1,4 +1,4 @@
-# Mehfil © @always_hungry365
+# © @always_hungry365
 # Owner Mayank
 
 
@@ -36,4 +36,4 @@ __help__ = """
  - `/encrypt` Encrypt your text
 """
 
-__mod_name__ = "? ??????????"
+__mod_name__ = "👨‍💻 ᴄᴏᴅᴇʀ"

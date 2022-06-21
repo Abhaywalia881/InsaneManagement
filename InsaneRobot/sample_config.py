@@ -1,5 +1,8 @@
-# Mehfil © @always_hungry365 © Mayank
-# Mayank
+# A Powerful Music And Management Bot
+# Without Credit (Mother Fucker)
+# @always_hungry365
+# Owner Mayank
+# Roses are red, Violets are blue, A face like yours, Belongs in a zoo
 # Roses are red, Violets are blue, A face like yours, Belongs in a zoo
 
 
@@ -24,8 +27,8 @@ class Config(object):
     API_HASH = "e1df48857a3fbe3093a6ef5cd7ccfe41"
     TOKEN = "1616584987:AAGiKBL-7Q4mihWH03AGtyBjfDNdp23zJVc"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 5303133436  # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "always_hungry365"
-    SUPPORT_CHAT = 'Dosto_ki_Mehfil786'  #Your own group for support, do not add the @
+    OWNER_USERNAME = "Mayank"
+    SUPPORT_CHAT = 'Dosto_ki_Mehfil'  #Your own group for support, do not add the @
     UPDATES_CHANNEL = 'Insane_Help' #Your own channel for Updates of bot, Do not add @
     JOIN_LOGGER = -1001717283097  #Prints any new group the bot is added to, prints just the name and ID.
     REM_BG_API_KEY = "http://removebg.com"
@@ -39,8 +42,8 @@ class Config(object):
     URL = None
     SPAMWATCH_API = ""  # go to support.spamwat.ch to get key
     SPAMWATCH_SUPPORT_CHAT = "@SpamWatchSupport"
-    BOT_USERNAME = "Insane_Management"
-    MONGO_DB_URI = "mongodb+srv://devil3420:pass@cluster0.3ejv7.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    BOT_USERNAME = "Insane"
+    MONGO_DB_URI = "mongodb+srv://devil3420:<pas>@cluster0.3ejv7.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
     BOT_ID = "5329645589"
     
     DRAGONS = get_user_list('elevated_users.json', 'sudos')

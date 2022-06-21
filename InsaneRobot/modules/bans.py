@@ -1,5 +1,6 @@
-# Mehfil © @always_hungry365
+# © @always_hungry365
 # Owner Mayank
+
 
 
 import html
@@ -43,8 +44,8 @@ from InsaneRobot.modules.helper_funcs.extraction import extract_user_and_text
 from InsaneRobot.modules.helper_funcs.string_handling import extract_time
 from InsaneRobot.modules.log_channel import gloggable, loggable
 
-UNBAN_IMG= "https://telegra.ph/file/b017dc397c6895a201170.mp4"
-BAN_IMG= "https://telegra.ph/file/8feebcd2309655661e0c9.mp4"
+UNBAN_IMG= "https://telegra.ph/file/35cfb3b4260a47c05d5c1.mp4"
+BAN_IMG= "https://telegra.ph/file/35cfb3b4260a47c05d5c1.mp4"
 
 @run_async
 @connection_status

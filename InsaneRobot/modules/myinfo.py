@@ -1,4 +1,4 @@
-# Mehfil © @always_hungry365
+# © @always_hungry365
 # Owner Mayank
 # Roses are red, Violets are blue, A face like yours, Belongs in a zoo
 
@@ -24,10 +24,10 @@ from InsaneRobot import dispatcher
 edit_time = 5
 """ =======================Insane====================== """
 file1 = "https://telegra.ph/file/c1ca97093abb67d0a315f.jpg"
-file2 = "https://telegra.ph/file/c1ca97093abb67d0a315f.jpg"
-file3 = "https://telegra.ph/file/c1ca97093abb67d0a315f.jpg"
-file4 = "https://telegra.ph/file/c1ca97093abb67d0a315f.jpg"
-file5 = "https://telegra.ph/file/c1ca97093abb67d0a315f.jpg"
+file2 = "https://telegra.ph/file/1888df0502c912cba05da.jpg"
+file3 = "https://telegra.ph/file/b1ad2984cb59d29f40d17.jpg"
+file4 = "https://telegra.ph/file/5c1f6ba30b73bed07e618.jpg"
+file5 = "https://telegra.ph/file/d7f3f9f0cf5790cf962cc.jpg"
 """ =======================Insane====================== """
 
 

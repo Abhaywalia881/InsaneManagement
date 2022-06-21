@@ -1,4 +1,5 @@
-# By Mayank @always_hungry365
+# © @always_hungry365
+# Owner Mayank
 
 
 import textwrap

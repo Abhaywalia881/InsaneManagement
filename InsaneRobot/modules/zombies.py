@@ -1,5 +1,5 @@
-# Written By Mayank
-# Devil Insane A Powerful Management Bot By Mayank
+# © @always_hungry365
+# Owner Mayank
 
 import asyncio
 from asyncio import sleep

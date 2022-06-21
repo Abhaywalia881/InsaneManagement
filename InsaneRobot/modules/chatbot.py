@@ -1,4 +1,4 @@
-# Mehfil © @always_hungry365
+# © @always_hungry365
 # Owner Mayank
 
 
@@ -45,7 +45,7 @@ def kukirm(update: Update, context: CallbackContext) -> str:
             )
         else:
             update.effective_message.edit_text(
-                "Insane  Chatbot Disabled By {}.".format(mention_html(user.id, user.first_name)),
+                "Insane Chatbot Disabled By {}.".format(mention_html(user.id, user.first_name)),
                 parse_mode=ParseMode.HTML,
             )
 
@@ -146,7 +146,7 @@ __help__ = """
 *Admins only Commands*:
   ➢ `/Chatbot`*:* Shows chatbot control panel
   
-*Powered by  Mayanl*
+*Powered by Mayank*
 """
 
 __mod_name__ = "🤖 ᴄʜᴀᴛʙᴏᴛ"

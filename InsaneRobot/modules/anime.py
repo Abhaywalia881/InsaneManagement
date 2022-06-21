@@ -1,4 +1,4 @@
-# Mehfil © @always_hungry365
+# © @always_hungry365
 # Owner Mayank
 
 
@@ -23,9 +23,9 @@ prequel_btn = "⬅️ Prequel"
 sequel_btn = "Sequel ➡️"
 close_btn = "Close ❌"
 
-ANIME_IMG = "https://telegra.ph/file/56b16e6599af473d692f9.gif"
-MANGA_IMG = "https://telegra.ph/file/e6b1c11a9cd09a9c0e223.gif"
-CHARACTER_IMG = "https://telegra.ph/file/a355b31aa5dfe112605d2.gif"
+ANIME_IMG = " https://telegra.ph/file/f996941966c7716dae4bd.mp4"
+MANGA_IMG = "https://telegra.ph/file/35cfb3b4260a47c05d5c1.mp4"
+CHARACTER_IMG = "https://telegra.ph/file/35cfb3b4260a47c05d5c1.mp4"
 
 def shorten(description, info='anilist.co'):
     msg = ""
